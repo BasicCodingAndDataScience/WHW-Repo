@@ -2,4 +2,10 @@
   font-family:sans-serif;
   background-color:#c3cbd8;
   color:#5374aa;
+  border-radius: 15px;
+}
+#SidebarItem{
+  background-color: #57dbad;
+  color:#177554;
+  border-radius:15px;
 }
