@@ -3,11 +3,13 @@
   background-color:#c3cbd8;
   color:#5374aa;
   border-radius: 15px;
+  width:500px;
 }
 #SidebarItem{
   background-color: #57dbad;
   color:#177554;
   border-radius:15px;
-  width:100px;
+/*  width:100px;*/
   margin-bottom:3px;
+  font-size: 25px;
 }
