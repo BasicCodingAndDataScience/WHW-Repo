@@ -19,6 +19,18 @@
   border-radius:10px;
   background-color:white;
 }
+#NavbarItemSelected{
+  font-size:20px;
+  border-top-style:solid;
+  border-left-style:solid;
+  border-bottom-style:solid;
+  border-right-style:solid;
+  border-color:Black;
+  width:100px;
+  display:inline;
+  border-radius:10px;
+  background-color:lightgreen;
+}
 #Navbar{
   margin-top:-10px;
   margin-right:-50px;
@@ -39,5 +51,10 @@
 }
 #HeatMap{
   margin-left:px;
-  
+
+}
+#Title{
+font-family:serif;
+color:#5374aa;
+
 }
