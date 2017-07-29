@@ -39,6 +39,6 @@ var myConfig2 = {
 zingchart.render({
 	id : 'Chart2',
 	data : myConfig2,
-	height: 750,
-	width: 1225,
+	height: 650,
+	width: 1000,
 });

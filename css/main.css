@@ -58,3 +58,19 @@ font-family:serif;
 color:#5374aa;
 
 }
+#aboutlist{
+  margin-top:30px;
+}
+#abtitm{
+  font-size:16px;
+  color:Green;
+}
+#abthd{
+  font-size:20px;
+  color:Green;
+  margin-bottom:15px;
+}
+#abt{
+  font-size:50px;
+  color:#5374aa;
+}
